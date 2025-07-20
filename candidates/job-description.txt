@@ -1,0 +1,28 @@
+Position: Middle Data Analyst
+
+Job Responsibilities:
+1. Advanced Data Analysis and Processing:
+    - Perform deep analysis of large volumes of data from various sources, including banking information systems, data warehouses, and external sources. Apply advanced analytical methods, including statistical modeling and machine learning, to gain valuable insights and support decision-making.
+
+2. Advanced SQL Usage and Query Optimization:
+    - Develop and optimize complex SQL queries, including the use of window functions, CTEs, subqueries, and analytical functions. Work with large datasets, tune query performance, and participate in database architecture design.
+
+3. Development and Implementation of Corporate Data Architecture:
+    - Design and implement enterprise-level data architecture to support analytics and business needs.
+
+4. Development of Comprehensive Reporting and Dashboards:
+    - Create informative and interactive reports and dashboards using Superset, QlikSense, or similar BI tools. Ensure automated reporting and visualization of key metrics for various management levels. Participate in the development of data marts.
+
+5. Modeling and Optimization of Banking Processes:
+    - Analyze business processes in the banking domain, including lending, deposit and payment products, and transactional operations. Develop models to assess process efficiency and propose data-driven optimizations.
+
+Required Skills and Qualifications:
+
+1. Advanced SQL Expertise:
+    - Deep knowledge of SQL and confident use of complex queries, including window functions, CTEs, subqueries, and aggregate operations. Experience optimizing SQL queries and working with large data volumes in production systems.
+
+2. Professional Data Visualization Skills:
+    - Strong command of BI tools such as Superset, QlikSense (or similar platforms). Experience developing scalable and interactive dashboards for various business units. Skills in creating visualizations that reflect key metrics and business indicators.
+
+3. Strong Understanding of Banking Processes:
+    - Solid knowledge of banking products and business processes, including lending, deposits, payment transactions, account management, and customer data. Experience providing analytical support for business processes and participating in data-driven optimization initiatives.
