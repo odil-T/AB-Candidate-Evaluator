@@ -65,9 +65,9 @@ def evaluate_from_resume(job_description: str, resume: str):
                 "content": prompt
             }
         ],
-        temperature=1,
-        max_completion_tokens=1024,
-        top_p=1,
+        temperature=0.2,
+        max_completion_tokens=8192,
+        top_p=0.8,
         stream=True,
         stop=None,
     )
@@ -124,9 +124,9 @@ def evaluate_from_transcript(position: str, transcript: str):
                 "content": prompt
             }
         ],
-        temperature=1,
-        max_completion_tokens=1024,
-        top_p=1,
+        temperature=0.2,
+        max_completion_tokens=8192,
+        top_p=0.8,
         stream=True,
         stop=None,
     )
